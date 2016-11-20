@@ -1,0 +1,123 @@
+{
+"char":["🌱", "🌳", "🌵", "🌷", "🌸", "🌹", "🌺", "🌻", "🌼", 
+"💐", "🍀", "⚡️", "🔥", "️🌟", "⭐️", "🎀", "💫", 
+"✨", "🎉", "🏮", "💕", "💞", "💓", "💗", "💖", "💘", "💝", "💜", 
+"💛","💚", "💙", "🎵","ツ ", "♋ ", "Σ ", "⊗ ",
+"♒ ", "☠ ", "☮ ", "☯ ", "♠ ", "Ω ", "♤ ", "♣ ", "♧ ", "♥ ",
+"♡ ", "♦♢♔ ", "♕ ", "♚ ", "♛ ", "★ ", "☆ ", "✮ ", "✯ ", "☄ ",
+"☾ ", "☽ ", "☼ ", "☀ ", "☁ ", "☂ ", "☃ ", "☻ ", "☺ ", "۞ ",
+"۩ ", "♬ ", "✄ ", "✂ ", "✆ ", "✉ ", "✦ ", "✧ ", "∞ ", "♂ ",
+"♀ ", "☿ ", "❤ ", "❥ ", "❦ ", "❧ ", "™ ", "® ", "© ", "✗ ",
+"✘ ", "⊗ ", "♒ ", "▢ ", "▲ ", "△ ", "▼ ", "▽ ", "◆ ", "◇ ",
+"○ ", "◎ ", "● ", "◯ ", "Δ ", "◕ ", "◔ ", "ʊ ", "ϟ ", "ღ ",
+"回 ", "₪ ", "✓ ", "✔ ", "✕ ", "✖ ", "☢ ", "☣ ", "☤ ", "☥ ",
+"☦ ", "☧ ", "☨ ", "☩ ", "☪ ", "☫ ", "☬ ", "☭ ", "☹ ", "☺ ",
+"☻ ", "ت ", "ヅ ", "ツ ", "ッ ", "シ ", "Ü ", "ϡ ", "♋ ", "♂ ",
+"♀ ", "☿ ", "♥ ", "❤ ", "❥ ", "웃 ", "유 ", "♡ ", "۵ ", "❣ ", 
+"☼ ", "☀ ", "☁ ", "☂ ", "☃ ", "☄ ", "☾ ", "☽ ", "❄ ", "☇ ", 
+"☈ ", "⊙ ", "☉ ", "℃ ", "℉ ", "° ", "♪ ", "♫ ", "♩ ", "♬ ", 
+"♭ ", "♮ ", "♯ ", "° ", "ø ", "✽ ", "✾ ", "✿ ", "❀ ", "❁ ", 
+"❃ ", "♚ ", "♛ ", "♜ ", "♝ ", "♞ ", "♟ ", " ♔ ", "♕ ", "♖ ", 
+"♗ ", "♘ ", "♙ ", "✉ ", "✍ ", "✎ ", "✏ ", "✐✑✒ ", "⌨ ", "☑ ", 
+"✓ ", "✔ ", " ", "☒ ", "☓ ", "✕ ", "✖ ", "✗ ", "✘ ", "✦ ", "★ ", 
+"☆ ", "✰ ", "✮ ", "✯ ", "❇ ", "❈ ", "❅ ", "❄ ", "❆ "],
+
+"words": [
+  "Finnrey",
+  "Finnpoe",
+  "Jedistormpilot",
+  "Reyva",
+  "Anidala",
+  "Skysolo",
+  "Han/Leia",
+  "Barissoka",
+  "Space Family",
+  "Ketbine",
+  
+  "Anakin Skywalker",
+  "Padme Amidala",
+  "Obi-Wan Kenobi",
+  "Quinlan Vos",
+  "Qui-Gon Jinn",
+  "Ahsoka Tano",
+  "The Ghost crew",
+  "Yoda",
+  "Palpatine",
+  "Bail Organa",
+  "Breha Organa",
+  "Chewbacca",
+  "Han Solo",
+  "Leia Organa-Solo",
+  "Luke Skywalker ",
+  "Poe Dameron",
+  "Finn",
+  "Rey",
+  "Captain Phasma",
+  "Armitage Hux",
+  "Kylo Ren",
+
+  "Darth Vader"
+
+],
+
+"prefix":[
+  "SURPRISE!"
+
+],
+
+"suffix":[
+  "™️",
+  "checkmate, atheists",
+  ". anyway",
+  "tell that to kanjiklub",
+  "with a gun"
+
+],
+
+"double" :[
+  	"#wording.capitalize#: (reads my mind)\nmy mind: #words#\n#wording.capitalize#: what the fuck"
+],
+
+"standard":[
+  "#[wording:#words#]double#",
+  "I crawl into bed.\n\n#words.s.capitalize#: made\n#words.capitalize.s#: fluffed \n#words.s.capitalize#: out",
+
+  "#words# fandom, grab your #words.s#",
+  
+  "we popping the biggest bottles when #words# happens tomorrow",
+  "holy #words# on a bike",
+  "you are weak and #words# is coming for you",
+  "We Are All #words.capitalize#",
+  "#char#follow for more soft #words##char#",
+  "i heard #words# has an 8-pack",
+  "if this gets 1000 notes my mom said she’ll buy me #words.a#",
+  "stop #words# 2k17", 
+  "tag yourself I'm #words#"
+
+],
+
+"origin":[  
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#char##standard##char#",
+  "#prefix# #standard#",
+  "#standard# #suffix#"
+  
+]
+
+}
