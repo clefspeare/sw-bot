@@ -23,10 +23,34 @@
 "☆ ", "✰ ", "✮ ", "✯ ", "❇ ", "❈ ", "❅ ", "❄ ", "❆ "],
 
 "words": [
+  "sand",
+  "cgi space pear",
+  "obi juan, whoever the fuck you are",
+  "Matt the radar technician",
+  "power converters",
+  "blaster",
+  "lightsaber",
+  "Phineas and Ferb crossover",
+  "rainbow backpack of support",
+  "Homestuck",
+  "Kylie Renner",
+
+  "The Phantom Menace",
+  "Attack of the Clones",
+  "Tartakovsky's Clone Wars",
+  "Revenge of the Sith",
+  "Rebels",
+  "Rogue One",
+  "A New Hope",
+  "The Empire Strikes Back",
+  "Return of the Jedi",
+  "The Force Awakens",
+
   "Finnrey",
   "Finnpoe",
   "Jedistormpilot",
   "Reyva",
+  "Kylux",
   "Anidala",
   "Skysolo",
   "Han/Leia",
@@ -34,9 +58,18 @@
   "Space Family",
   "Ketbine",
   
+  "the Millenium Falcon",
+  "the Death Star",
+  "Starkiller Base",
+  "the Trade Federation",
+  
   "Anakin Skywalker",
   "Padme Amidala",
+  "R2-D2",
+  "C-3PO",
   "Obi-Wan Kenobi",
+  "Darth Maul",
+  "Darth Tyranus",
   "Quinlan Vos",
   "Qui-Gon Jinn",
   "Ahsoka Tano",
@@ -45,31 +78,52 @@
   "Palpatine",
   "Bail Organa",
   "Breha Organa",
+  "Sabine Wren",
+  "Hera Syndulla",
+  "Kanan Jarrus",
+  "Zeb Orrelios",
+  "Ezra Bridger",
+  "Captain Rex",
+  "Commander Cody",
+  "Chopper",
+  "Orson Krennic",
+  "Galen",
+  "Cassian Andor",
+  "Bodhi Rook",
+  "Chirrut",
+  "Baze",
+  "Jyn Erso",
   "Chewbacca",
   "Han Solo",
   "Leia Organa-Solo",
   "Luke Skywalker ",
+  "Uncle Owen",
+  "Aunt Beru",
+  "Grand Moff Tarkin",
   "Poe Dameron",
   "Finn",
+  "BB-8",
   "Rey",
   "Captain Phasma",
   "Armitage Hux",
   "Kylo Ren",
-
   "Darth Vader"
 
 ],
 
 "prefix":[
   "SURPRISE!"
-
+  
 ],
 
 "suffix":[
   "™️",
-  "checkmate, atheists",
+  ". checkmate, atheists",
   ". anyway",
   "tell that to kanjiklub",
+  "well your poncho is a piece of junk",
+  "but that's none of my business",
+  "",
   "with a gun"
 
 ],
@@ -84,6 +138,10 @@
 
   "#words# fandom, grab your #words.s#",
   
+  "here comes dat #words#",
+  "don't ever talk to me or my #words# ever again",
+  "whats up you #words# loving fucks",
+  "Let #words.capitalize# Say Fuck",
   "we popping the biggest bottles when #words# happens tomorrow",
   "holy #words# on a bike",
   "you are weak and #words# is coming for you",
@@ -91,6 +149,7 @@
   "#char#follow for more soft #words##char#",
   "i heard #words# has an 8-pack",
   "if this gets 1000 notes my mom said she’ll buy me #words.a#",
+  "look at all the fucks i give. look at them, #words#",
   "stop #words# 2k17", 
   "tag yourself I'm #words#"
 
